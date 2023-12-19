@@ -1,6 +1,6 @@
 AUTHOR = 'KT'
 SITENAME = 'Blog'
-SITEURL = ""
+SITEURL = "https://KollinRT.github.io"
 
 PATH = "content"
 
